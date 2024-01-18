@@ -1,5 +1,5 @@
 # Olá! Eu sou o Matheus Cantero!
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas;
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas;
 - 🌎 Brasil;
 - 😄 Pronomes: Ele/Dele;
 
